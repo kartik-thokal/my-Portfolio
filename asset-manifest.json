@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/kartik-thokal/my-Portfolio.git/static/css/main.cd122fa3.css",
+    "main.js": "/kartik-thokal/my-Portfolio.git/static/js/main.8ace5493.js",
+    "static/media/TripNest.png": "/kartik-thokal/my-Portfolio.git/static/media/TripNest.b5965c5d5080633022d6.png",
+    "static/media/AgriInfo.png": "/kartik-thokal/my-Portfolio.git/static/media/AgriInfo.23832490a03c0b91dcd0.png",
+    "static/media/HeadShot.png": "/kartik-thokal/my-Portfolio.git/static/media/HeadShot.7acd5882c8c091f260bd.png",
+    "static/media/NPTEL.png": "/kartik-thokal/my-Portfolio.git/static/media/NPTEL.14d49453b7b7fbd40d4d.png",
+    "static/media/Udemy_Fs.jpg": "/kartik-thokal/my-Portfolio.git/static/media/Udemy_Fs.3a96165ee977b229ac78.jpg",
+    "static/media/Udemy-Dsa.jpg": "/kartik-thokal/my-Portfolio.git/static/media/Udemy-Dsa.839cc8b6a2dc91699121.jpg",
+    "static/media/LeetCode_50.png": "/kartik-thokal/my-Portfolio.git/static/media/LeetCode_50.3fb4d687e0136229415d.png",
+    "static/media/Artistry.jpg": "/kartik-thokal/my-Portfolio.git/static/media/Artistry.1394bf384b8edb6e5944.jpg",
+    "static/media/js.png": "/kartik-thokal/my-Portfolio.git/static/media/js.b7bb1c6cfe7f432dbe7f.png",
+    "static/media/Gfg_Inf.png": "/kartik-thokal/my-Portfolio.git/static/media/Gfg_Inf.ac06fa41bb42e7df3d35.png",
+    "static/media/nodejs.png": "/kartik-thokal/my-Portfolio.git/static/media/nodejs.9e80103ef60dc69f655c.png",
+    "static/media/express.png": "/kartik-thokal/my-Portfolio.git/static/media/express.2c29f4a224941bc39d68.png",
+    "static/media/mongodb.png": "/kartik-thokal/my-Portfolio.git/static/media/mongodb.e6c9a7fb3681dfff1d27.png",
+    "static/media/css.png": "/kartik-thokal/my-Portfolio.git/static/media/css.f1de13032f79f5aad459.png",
+    "static/media/Hacker_Badges.png": "/kartik-thokal/my-Portfolio.git/static/media/Hacker_Badges.e65f939815f77ccd1bcf.png",
+    "static/media/php.svg": "/kartik-thokal/my-Portfolio.git/static/media/php.9bda152757b9aea3390f112efdc4bdb8.svg",
+    "static/media/docker.png": "/kartik-thokal/my-Portfolio.git/static/media/docker.8464a8978dfb11aee307.png",
+    "static/media/html.png": "/kartik-thokal/my-Portfolio.git/static/media/html.8fe52ea5dd651ff7ec08.png",
+    "static/media/springboot.png": "/kartik-thokal/my-Portfolio.git/static/media/springboot.77048c86f0d7e17e5927.png",
+    "static/media/S1.png": "/kartik-thokal/my-Portfolio.git/static/media/S1.ca4a3531fcefee55cfbd.png",
+    "static/media/react.png": "/kartik-thokal/my-Portfolio.git/static/media/react.3473404671ee10b524a7.png",
+    "static/media/CPP.png": "/kartik-thokal/my-Portfolio.git/static/media/CPP.c12f239e0def87bae3bc.png",
+    "static/media/postman.png": "/kartik-thokal/my-Portfolio.git/static/media/postman.65699ce4f01d5a3bab8f.png",
+    "static/media/bootstrap.png": "/kartik-thokal/my-Portfolio.git/static/media/bootstrap.df05d86307e14eef4413.png",
+    "static/media/Java.png": "/kartik-thokal/my-Portfolio.git/static/media/Java.4dedd810459b6de1e4df.png",
+    "static/media/mysql.png": "/kartik-thokal/my-Portfolio.git/static/media/mysql.10be3437980f352abe77.png",
+    "static/media/git.png": "/kartik-thokal/my-Portfolio.git/static/media/git.74468fb8cacbfd19627a.png",
+    "index.html": "/kartik-thokal/my-Portfolio.git/index.html",
+    "main.cd122fa3.css.map": "/kartik-thokal/my-Portfolio.git/static/css/main.cd122fa3.css.map",
+    "main.8ace5493.js.map": "/kartik-thokal/my-Portfolio.git/static/js/main.8ace5493.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd122fa3.css",
+    "static/js/main.8ace5493.js"
+  ]
+}
